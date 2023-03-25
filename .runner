@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-VE256C8",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/49OGrFioJjT2HouUl3eDnMn1UQdXJ8F1svsIImq0P8clzllsai",
+  "gitHubUrl": "https://github.com/kekawa/test02",
+  "workFolder": "_work"
+}
